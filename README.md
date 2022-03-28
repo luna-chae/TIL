@@ -1,2 +1,2 @@
 # TIL
-매일 공부한 점을 기록해두는 페이지 입니다
+Today I Learned 
