@@ -6,12 +6,9 @@
 
 아래와 같은 표에서, 구매자가 오징어를 사려고 할때 어떤 품목을 추천해주려고 한다 통계 지표에 근거하여 최종적으로 어떤 물품을 추천해주겠는가?
 
-![스크린샷 2022-03-28 오후 1.32.49.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04210554-1b07-4fb0-a2cb-34a13ccf2ce0/스크린샷_2022-03-28_오후_1.32.49.png)
+![통계_1.png](https://github.com/luna-chae/TIL/blob/main/question1_stats.png)
 
 장바구니 분석에서 사용하는 대표적인 통계 지표가 지지도, 신뢰도, 향상도이다. 각각을 구하는 식을 간단하게 적고 결론을 내보겠다
 
+답은 해당 노션페이지에 정리해두었다 (https://www.notion.so/069e0ea8ee2c45248233d8631e258024)
 
-
-ref
-추천을 위한 연관성 규칙(Association Rules)의 지지도, 신뢰도, 향상도
-(https://needjarvis.tistory.com/59)
